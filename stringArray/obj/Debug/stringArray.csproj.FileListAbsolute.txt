@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\New folder\ConsoleApp1\stringArray\bin\Debug\stringArray.exe.config
+C:\Users\opilane\projects\New folder\ConsoleApp1\stringArray\bin\Debug\stringArray.exe
+C:\Users\opilane\projects\New folder\ConsoleApp1\stringArray\bin\Debug\stringArray.pdb
+C:\Users\opilane\projects\New folder\ConsoleApp1\stringArray\obj\Debug\stringArray.exe
+C:\Users\opilane\projects\New folder\ConsoleApp1\stringArray\obj\Debug\stringArray.pdb

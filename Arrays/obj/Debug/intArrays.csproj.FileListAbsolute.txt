@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\New folder\ConsoleApp1\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\opilane\projects\New folder\ConsoleApp1\Arrays\bin\Debug\Arrays.exe
+C:\Users\opilane\projects\New folder\ConsoleApp1\Arrays\bin\Debug\Arrays.pdb
+C:\Users\opilane\projects\New folder\ConsoleApp1\Arrays\obj\Debug\Arrays.exe
+C:\Users\opilane\projects\New folder\ConsoleApp1\Arrays\obj\Debug\Arrays.pdb
